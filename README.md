@@ -1,1 +1,1 @@
-# stepik_page_object_odel
+# stepik_page_object_model
